@@ -2,7 +2,7 @@ import pytest
 import test
 
 def addition(x,y):
-	return x+y-1
+	return x+y
 
 def soustraction(x,y):
 	return x-y
