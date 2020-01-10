@@ -20,5 +20,5 @@ def test_division()
 
 def test_multipleOperations()
 	assert division(10,addition(4,1)) == 2 
-	assert multiplication(10,soustraction(10,9)) == 10)
+	assert multiplication(10,soustraction(10,9)) == 10
 
