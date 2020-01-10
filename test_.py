@@ -1,3 +1,5 @@
+import fonction 
+
 def test_addition():
 	assert addition(1,1) == 2
 	assert addition(40,2) == 42
